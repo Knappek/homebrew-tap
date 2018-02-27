@@ -3,7 +3,7 @@ class Lmgtfy < Formula
   homepage ""
   url "https://github.com/Knappek/lmgtfy/releases/download/v0.1.0/lmgtfy_0.1.0_darwin_amd64.tar.gz"
   version "0.1.0"
-  sha256 "3a655ea7f7682ae2057672383e03a37c65de7ddd528387ed3c993fe78fb39cb4"
+  sha256 "834c0bf3a4d41af73a5a78e62c5f3f9e97afe6ab2916cec9fbb3956b4a40aa65"
 
   def install
     bin.install "lmgtfy"
